@@ -1,0 +1,19 @@
+{
+  "name": "TeachEye",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "firebase": "^10.7.0",
+    "@react-native-async-storage/async-storage": "^1.21.0",
+    "react-native-webrtc": "^118.0.0",
+    "react-native-device-info": "^10.13.2",
+    "@react-native-community/netinfo": "^11.3.1",
+    "react-native-permissions": "^4.1.5"
+  }
+}
